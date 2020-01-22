@@ -16,11 +16,124 @@
   </div><!--//intro-->
   {% endif %}
 
-  {% for publication in publications.papers %}
+  <h3 class="publication-title">Preprints</h3>
+  {% for publication in publications.Preprint %}
   <div class="item">
-    <div class="publication-title">{{ publication.title }}</div>
-    <div class="publication-authors">{{ publication.authors }}</div>
-    <div class="publication-conference">{{ publication.conference }}</div>
+    <span>{{ publication.authors }} ({{ publication.year }})
+      {{ publication.title }}.
+      <u>{{ publication.journal }}</u>
+      {% if publication.volume %}{{ publication.volume }}
+      {% endif %}:{{ publication.pages }}.
+      <a href="https://doi.org/{{ publication.doi }}">doi:{{ publication.doi }}</a>
+    </span>
+  </div><!--//item-->
+  {% endfor %}
+  
+  <h3 class="publication-title">2020</h3>
+  {% for publication in publications.y2020 %}
+  <div class="item">
+    <span>{{ publication.authors }} ({{ publication.year }}).
+      {{ publication.title }}.
+      <u>{{ publication.journal }}</u>
+      {% if publication.volume %}{{ publication.volume }}{% endif %}:{{ publication.pages }}.
+      <a href="https://doi.org/{{ publication.doi }}">doi:{{ publication.doi }}</a>
+    </span>
+  </div><!--//item-->
+  {% endfor %}
+  
+  <h3 class="publication-title">2019</h3>
+  {% for publication in publications.y2019 %}
+  <div class="item">
+    <span>{{ publication.authors }} ({{ publication.year }}).
+      {{ publication.title }}.
+      <u>{{ publication.journal }}</u>
+      {% if publication.volume %}{{ publication.volume }}{% endif %}:{{ publication.pages }}.
+      <a href="https://doi.org/{{ publication.doi }}">doi:{{ publication.doi }}</a>
+    </span>
+  </div><!--//item-->
+  {% endfor %}
+
+  <h3 class="publication-title">2018</h3>
+  {% for publication in publications.y2018 %}
+  <div class="item">
+    <span>{{ publication.authors }} ({{ publication.year }}).
+      {{ publication.title }}.
+      <u>{{ publication.journal }}</u>
+      {% if publication.volume %}{{ publication.volume }}{% endif %}:{{ publication.pages }}.
+      <a href="https://doi.org/{{ publication.doi }}">doi:{{ publication.doi }}</a>
+    </span>
+  </div><!--//item-->
+  {% endfor %}
+
+  <h3 class="publication-title">2017</h3>
+  {% for publication in publications.y2017 %}
+  <div class="item">
+    <span>{{ publication.authors }} ({{ publication.year }}).
+      {{ publication.title }}.
+      <u>{{ publication.journal }}</u>
+      {% if publication.volume %}{{ publication.volume }}{% endif %}:{{ publication.pages }}.
+      <a href="https://doi.org/{{ publication.doi }}">doi:{{ publication.doi }}</a>
+    </span>
+  </div><!--//item-->
+  {% endfor %}
+
+  <h3 class="publication-title">2016</h3>
+  {% for publication in publications.y2016 %}
+  <div class="item">
+    <span>{{ publication.authors }} ({{ publication.year }}).
+      {{ publication.title }}.
+      <u>{{ publication.journal }}</u>
+      {% if publication.volume %}{{ publication.volume }}{% endif %}:{{ publication.pages }}.
+      <a href="https://doi.org/{{ publication.doi }}">doi:{{ publication.doi }}</a>
+    </span>
+  </div><!--//item-->
+  {% endfor %}
+
+  <h3 class="publication-title">2015</h3>
+  {% for publication in publications.y2015 %}
+  <div class="item">
+    <span>{{ publication.authors }} ({{ publication.year }}).
+      {{ publication.title }}.
+      <u>{{ publication.journal }}</u>
+      {% if publication.volume %}{{ publication.volume }}{% endif %}:{{ publication.pages }}.
+      <a href="https://doi.org/{{ publication.doi }}">doi:{{ publication.doi }}</a>
+    </span>
+  </div><!--//item-->
+  {% endfor %}
+
+  <h3 class="publication-title">2014</h3>
+  {% for publication in publications.y2014 %}
+  <div class="item">
+    <span>{{ publication.authors }} ({{ publication.year }}).
+      {{ publication.title }}.
+      <u>{{ publication.journal }}</u>
+      {% if publication.volume %}{{ publication.volume }}{% endif %}:{{ publication.pages }}.
+      <a href="https://doi.org/{{ publication.doi }}">doi:{{ publication.doi }}</a>
+    </span>
+  </div><!--//item-->
+  {% endfor %}
+
+  <h3 class="publication-title">2013</h3>
+  {% for publication in publications.y2013 %}
+  <div class="item">
+    <span>{{ publication.authors }} ({{ publication.year }}).
+      {{ publication.title }}.
+      <u>{{ publication.journal }}</u>
+      {% if publication.volume %}{{ publication.volume }}{% endif %}:{{ publication.pages }}.
+      <a href="https://doi.org/{{ publication.doi }}">doi:{{ publication.doi }}</a>
+    </span>
+  </div><!--//item-->
+  {% endfor %}
+
+  <h3 class="publication-title">2012</h3>
+  {% for publication in publications.y2012 %}
+  <div class="item">
+    <span>{{ publication.authors }} ({{ publication.year }}).
+      {{ publication.title }}.
+      <u>{{ publication.journal }}</u>
+      {% if publication.volume %}{{ publication.volume }}{% endif %}:{{ publication.pages }}.
+      <a href="https://doi.org/{{ publication.doi }}">doi:{{ publication.doi }}</a>
+    </span>
   </div><!--//item-->
   {% endfor %}
 

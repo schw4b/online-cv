@@ -1,9 +1,11 @@
 /* ======= Base ======= */
+@import url(https://fonts.googleapis.com/css?family=Raleway:700,400);
+
 body {
-    font-family: 'Roboto', sans-serif;
+    font-family: "Raleway", sans-serif;;
     color: $text-color-secondary;
     background: $smoky-white;
-    font-size: 14px;
+    font-size: 15px;
     padding: 30px;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
@@ -182,7 +184,7 @@ p {
     }
     .job-title, .degree {
         color: $text-color;
-        font-size: 16px;
+        font-size: 15px;
         margin-top: 0;
         margin-bottom: 0;
         font-weight: 500;
@@ -193,17 +195,25 @@ p {
         top: 0;
         color: $text-grey;
     }
-    .company, .university {
-        margin-bottom: 10px;
+    .company, .university, .award {
+        margin-bottom: 0px;
         color: $text-grey;
     }
 
-    .project-title {
-        font-size: 16px;
+    .project-title, .talk-title {
+        font-size: 15px;
         font-weight: 400;
         margin-top: 0;
         margin-bottom: 5px;
     }
+
+    .grant-title {
+        font-size: 145x;
+        font-weight: 400;
+        margin-top: 0;
+        margin-bottom: 0px;
+    }
+
     .projects-section {
         .intro {
             margin-bottom: 30px;
@@ -216,8 +226,8 @@ p {
     .publication-title {
         font-size: 16px;
         font-weight: 400;
-        color: $text-color;
-        margin-bottom: 1px;
+        color: darken($theme-color, 15%);
+        margin-bottom: 15px;
     }
     .publication-authors {
         font-style: italic;

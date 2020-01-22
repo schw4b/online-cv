@@ -3,198 +3,341 @@
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
+    name: Simon Schwab
+    tagline: Postdoctoral Fellow @ UZH
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    github: sharu725
+    email: simon.schwab@uzh.ch
+    phone: +41 44 63 44976
+    website: schw4b.github.io #do not add http://
+    linkedin:
+    github: schw4b
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
+    twitter: '@SimonSchw4b'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
 
     languages:
-      - idiom: English
+      - idiom: German
         level: Native
 
-      - idiom: French
-        level: Professional
-
-      - idiom: Spanish
+      - idiom: English
         level: Professional
 
     interests:
-      - item: Climbing
+      - item: meta-science
         link:
 
-      - item: Snowboarding
+      - item: medical statistics
+        link:
+        
+      - item: clinical trials
         link:
 
-      - item: Cooking
+      - item: good research practice
         link:
-
+        
+      - item: brain connectivity
+        link:
+        
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-
-      Second paragraph if required.
+      As a postdoctoral fellow at the
+      [Center for Reproducible Science (CRS)](http://www.crs.uzh.ch) and the Department of Biostatistics
+      my main responsibilities are trainings in good research practice across faculties,
+      and teaching biostatistics at medical school. Furthermore,
+      I'm leading two meta-research projects, the first about publication
+      bias in clinical trials, and the second about verification of research results.
+      I have a broad set of expertise in Psychiatry research, for example, in the analyis of neuroimaging data,
+      the development of methods for brain connectivity, and the analysis of clinical trials.
 
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
+    - degree: PhD in Neuroscience
+      university: University of Bern
+      time: 2013
 
-          - Bullet point
-          - Bullet point
-
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-
-          - Bullet point
-          - Bullet point
+    - degree: MSc (Psychology, Computer Science)
+      university: University of Bern
+      time: 2008
 
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
+    - role: Postdoctoral Researcher
+      time: 08/2018&mdash;Present
+      university: University of Zurich
+      department: Center for Reproducible Science & <br> Department of Biostatistics (Prof. Leonhard Held) 
+      #<br> Epidemiology, Biostatistics and Prevention Institute
 
-          - Bullet point
-          - Bullet point
+    - role: Visiting Academic (SNSF Mobility)
+      time: 06/2017&mdash;06/2018
+      university: University of Oxford
+      department: Neuroimaging Statistics (Prof. Thomas Nichols)
 
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
+    - role: Visiting Academic (SNSF Mobility)
+      time: 01/2016&mdash;05/2017
+      university: University of Warwick
+      department: Department of Statistics (Prof. Thomas Nichols)
 
-          - Bullet point
-          - Bullet point
-
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-
-          - Bullet point
-          - Bullet point
+    - role: Postdoctoral Researcher
+      time: 12/2013&mdash;12/2015
+      university: University Hospital of Psychiatry, Bern
+      department: Psychiatric Neuroimaging Unit (Prof. Andrea Federspiel) 
+      
+    - role: PhD Student
+      time: 02/2009&mdash;12/2013
+      university: University Hospital of Psychiatry, Bern
+      department: Department of Psychiatric Neurophysiology (PD Dr. Andreas Altorfer)
 
 projects:
-    title: Projects
-    intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+    title: Research Projects
+    intro: |
+      Most of my research projects are available at OSF [here](https://osf.io/dkpvs/) including methods, code, and data. My ongoing projects are listed below.
 
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: FORRESD
+        link: "https://osf.io/4mfdh/"
+        tagline: "Foster Open and Reproducible Reanalyses of Scientific Data"
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+      - title: Publication Bias
+        link: "https://osf.io/uv397/"
+        tagline: "Estimating publication bias in a large dataset in medicine"
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+      - title: BMI
+        link: "https://osf.io/5nbtc/"
+        tagline: "Identication of risk factors and mapping of excess weight
+                 in young Swiss males"
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+talks:
+    title: Teaching, Talks & Workshops
+    intro: |
+      A complete list with slides from my [talks and workshops](https://osf.io/a3g5c/)
+      are available at OSF.
 
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+    assignments:
+      - title: Good Research Practice (GRP I and II)
+        link: https://www.grc.uzh.ch/
+        tagline: Graduate Campus, UZH.
+        time: HS19/FS20
+      
+      - title: Open Science and Reproducibility in Neuroscience
+        link: https://osf.io/nmqc7/
+        tagline: Brainhack Zurich 2019.
+        time: 10/2019
+
+      - title: Better Research
+        link: https://osf.io/3egpz/
+        tagline: Part of "Research Ethics for Life Scientists", UZH.
+        time: FS19
+    
+      - title: Clinical Biostatistics (Practicals)
+        link: https://www.ebpi.uzh.ch/de/teaching/uzhprograms/faculties/teachingbiostats/medstat.html
+        tagline: Master program in Human Medicine, UZH
+        time: FS19
+
+      - title: Biostatistics I (Practicals)
+        link: https://www.ebpi.uzh.ch/de/teaching/uzhprograms/faculties/teachingbiostats/medstat.html
+        tagline: Bacherlor program in Human Medicine, UZH
+        time: FS19
+
+      - title: Preregistration and Reproducibility
+        link: https://osf.io/u2x9w/
+        tagline: Part of "Advanced Statistics", Department of Economics, UZH.
+        time: FS19
+
+grants:
+    - title: Poster Award Metascience 2019, Stanford University
+      award: USD 500
+      time: 09/2019
+      
+    - title: Stiftung für wissenschaftliche Forschung UZH
+      award: CHF 21,000
+      time: 04/2019
+
+    - title: SNSF Advanced Postdoc Mobility Fellowship
+      award: CHF 71,500
+      time: 07/2017
+
+    - title: EPSRC UK NCSML Award
+      award: GBP 2,000
+      time: 06/2016
+
+    - title: SNSF Early Postdoc Mobility Fellowship
+      award: CHF 88,800
+      time: 01/2016
+
+    - title: ISMRM Educational Stipend
+      award: USD 400
+      time: 04/2015
+
+    - title: TOTAL
+      award: CHF 185,000
+      time:
 
 publications:
     title: Publications
     intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+      See also
+      [Google Scholar](https://scholar.google.ch/citations?user=uR1_O0UAAAAJ) / [Pubmed](http://www.ncbi.nlm.nih.gov/pubmed/?term=Schwab+Simon%5BAuthor%5D).
 
-    papers:
-      - title: The Art of Computer Programming
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+    Preprint:
+      - authors: <b>Schwab, S.</b>, Afyouni, S., Chen, Y., Han, Z., Guo, Q., Dierks, T., … Grieder, M.
+        year: 2018
+        title: "Functional connectivity alterations of the temporal lobe and hippocampus in semantic dementia and Alzheimer’s disease"
+        journal: bioRxiv
+        volume:
+        pages: 322131
+        doi: 10.1101/322131
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+      - authors: <b>Schwab, S.</b>, Federspiel, A., Morishima, Y., Nakataki, M., Strik, W., Wiest, R., … Soravia, L. M.
+        year: 2017
+        title: "Glucocorticoids and cortical decoding in the phobic brain"
+        journal: bioRxiv
+        volume:
+        pages: 099697
+        doi: 10.1101/099697
+        
+    y2020:
+      - authors: Held, L. & <b>Schwab, S</b>.
+        year: 2020
+        title: "Improving the reproducibility of science"
+        journal: Significance
+        volume:
+        pages: 
+        doi:
+    
+    y2019:
+      - authors: Gysin-Maillart, A., Soravia, L., & <b>Schwab, S</b>.
+        year: 2019
+        title: "Attempted suicide short intervention program influences coping among patients with a history of attempted suicide"
+        journal: Journal of Affective Disorders
+        volume:
+        pages: 
+        doi: 10.1016/j.jad.2019.11.059
+        
+    y2018:
+      - authors: Mueller, S. V., Morishima, Y., <b>Schwab, S.</b>, Wiest, R., Federspiel, A., & Hasler, G.
+        year: 2018
+        title: "Neural correlates of impaired reward-effort integration in remitted bulimia nervosa"
+        journal: Neuropsychopharmacology
+        volume: 43(4)
+        pages: 868–876
+        doi: 10.1038/npp.2017.277
 
-      - title: A syntax directed compiler for Algol 60
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+      - authors: <b>Schwab, S.</b>, Harbord, R., Zerbi, V., Elliott, L., Afyouni, S., Smith, J. Q., … Nichols, T. E.
+        year: 2018
+        title: "Directed functional connectivity using dynamic graphical models"
+        journal: NeuroImage
+        volume: 175
+        pages: 340–353
+        doi: 10.1016/j.neuroimage.2018.03.074
 
-skills:
-    title: Skills &amp; Proficiency
+    y2017:
+      - authors: Nakataki, M., Soravia, L. M., <b>Schwab, S.</b>, Horn, H., Dierks, T., Strik, W., … Morishima, Y.
+        year: 2017
+        title: "Glucocorticoid administration improves aberrant fear-processing networks in spider phobia"
+        journal: Neuropsychopharmacology
+        volume: 42(2)
+        pages: 485–494
+        doi: 10.1038/npp.2016.207
 
-    toolset:
-      - name: Python & Django
-        level: 98%
+    y2016:
+      - authors: Gysin-Maillart, A., <b>Schwab, S.</b>, Soravia, L., Megert, M., & Michel, K.
+        year: 2016
+        title: "A novel brief therapy for patients who attempt auicide: A 24-months follow-up randomized controlled study of the Attempted Suicide Short Intervention Program (ASSIP)"
+        journal: PLoS Medicine
+        volume: 13(3)
+        pages: e1001968
+        doi: 10.1371/journal.pmed.1001968
 
-      - name: Javascript & jQuery
-        level: 98%
+      - authors: Soravia, L. M., Orosz, A., <b>Schwab, S.</b>, Nakataki, M., Wiest, R., & Federspiel, A.
+        year: 2016
+        title: "CBT reduces CBF: cognitive-behavioral therapy reduces cerebral blood flow in fear-relevant brain regions in spider phobia"
+        journal: Brain and Behavior
+        volume: 6(9)
+        pages: e00510
+        doi: 10.1002/brb3.510
 
-      - name: Angular
-        level: 98%
+      - authors: Soravia, L. M., Witmer, J. S., <b>Schwab, S.</b>, Nakataki, M., Dierks, T., Wiest, R., … Jann, K.
+        year: 2016
+        title: "Prestimulus default mode activity influences depth of processing and recognition in an emotional memory task"
+        journal: Human Brain Mapping
+        volume: 37(3)
+        pages: 924–932
+        doi: 10.1002/hbm.23076
 
-      - name: HTML5 & CSS
-        level: 95%
+    y2015:
+      - authors: Jann, K., Gee, D. G., Kilroy, E., <b>Schwab, S.</b>, Smith, R. X., Cannon, T. D., & Wang, D. J. J.
+        year: 2015
+        title: "Functional connectivity in BOLD and CBF data: similarity and reliability of resting brain networks"
+        journal: NeuroImage
+        volume: 106
+        pages: 111–122
+        doi: 10.1016/j.neuroimage.2014.11.028
 
-      - name: Ruby on Rails
-        level: 85%
+      - authors: <b>Schwab, S.</b>, Jost, M., & Altorfer, A.
+        year: 2015
+        title: "Impaired top-down modulation of saccadic latencies in patients with schizophrenia but not in first-degree relatives"
+        journal: Frontiers in Behavioral Neuroscience
+        volume: 9
+        pages: 44
+        doi: 10.3389/fnbeh.2015.00044
 
-      - name: Sketch & Photoshop
-        level: 60%
+      - authors: <b>Schwab, S.</b>, Koenig, T., Morishima, Y., Dierks, T., Federspiel, A., & Jann, K.
+        year: 2015
+        title: "Discovering frequency sensitive thalamic nuclei from EEG microstate informed resting state fMRI"
+        journal: NeuroImage
+        volume: 118
+        pages: 368–375
+        doi: 10.1016/j.neuroimage.2015.06.001
 
-footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+    y2014:
+      - authors: Duss, S. B., Reber, T. P., Hänggi, J., <b>Schwab, S.</b>, Wiest, R., Müri, R. M., … Henke, K.
+        year: 2014
+        title: "Unconscious relational encoding depends on hippocampus"
+        journal: Brain
+        volume: 137
+        pages: 3355–3370
+        doi: 10.1093/brain/awu270
+
+    y2013:
+      - authors: Giezendanner, S., Walther, S., Razavi, N., Van Swam, C., Fisler, M. S., Soravia, L. M., … Federspiel, A.
+        year: 2013
+        title: "Alterations of white matter integrity related to the season of birth in schizophrenia: a DTI study"
+        journal: PloS One
+        volume: 8(9)
+        pages: e75508
+        doi: 10.1371/journal.pone.0075508
+
+      - authors: Mikutta, C. A., <b>Schwab, S.</b>, Niederhauser, S., Wuermle, O., Strik, W., & Altorfer, A.
+        year: 2013
+        title: "Music, perceived arousal, and intensity: psychophysiological reactions to Chopin's 'Tristesse'"
+        journal: Psychophysiology
+        volume: 50(9)
+        pages: 909–919
+        doi: 10.1111/psyp.12071
+
+      - authors: <b>Schwab, S.</b>, Würmle, O., Razavi, N., Müri, R. M., & Altorfer, A.
+        year: 2013
+        title: "Eye-head coordination abnormalities in schizophrenia"
+        journal: PloS One
+        volume: 8(9)
+        pages: e74845
+        doi: 10.1371/journal.pone.0074845
+
+    y2012:
+      - authors: <b>Schwab, S.</b>, Würmle, O., & Altorfer, A.
+        year: 2012
+        title: "Analysis of eye and head coordination in a visual peripheral recognition task"
+        journal: Journal of Eye Movement Research
+        volume: 5(2)
+        pages: 1–9
+        doi: 10.16910/JEMR.5.2.3
+
+footer: last update in May 2019
