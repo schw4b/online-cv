@@ -210,18 +210,18 @@ publications:
         volume:
         pages: 099697
         doi: 10.1101/099697
-        
+
     y2020:
-      - authors: Held, L. & <b>Schwab, S</b>.
+      - authors: Held, L., & <b>Schwab, S.</b>.
         year: 2020
         title: "Improving the reproducibility of science"
         journal: Significance
-        volume:
-        pages: 
-        doi:
+        volume:17(1)
+        pages: 10–11
+        doi: 10.1111/j.1740-9713.2020.01351.x
     
     y2019:
-      - authors: Gysin-Maillart, A., Soravia, L., & <b>Schwab, S</b>.
+      - authors: Gysin-Maillart, A., Soravia, L., & <b>Schwab, S.</b>.
         year: 2019
         title: "Attempted suicide short intervention program influences coping among patients with a history of attempted suicide"
         journal: Journal of Affective Disorders
