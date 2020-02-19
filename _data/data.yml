@@ -153,27 +153,27 @@ talks:
 
 grants:
     - title: Poster Award Metascience 2019, Stanford University
-      award: USD 500
+      # award: USD 500
       time: 09/2019
       
     - title: Stiftung für wissenschaftliche Forschung UZH
-      award: CHF 21,000
+      #award: CHF 21,000
       time: 04/2019
 
     - title: SNSF Advanced Postdoc Mobility Fellowship
-      award: CHF 71,500
+      #award: CHF 71,500
       time: 07/2017
 
     - title: EPSRC UK NCSML Award
-      award: GBP 2,000
+      #award: GBP 2,000
       time: 06/2016
 
     - title: SNSF Early Postdoc Mobility Fellowship
-      award: CHF 88,800
+      #award: CHF 88,800
       time: 01/2016
 
     - title: ISMRM Educational Stipend
-      award: USD 400
+      #award: USD 400
       time: 04/2015
 
     - title: TOTAL
@@ -212,22 +212,21 @@ publications:
         doi: 10.1101/099697
 
     y2020:
-      - authors: Held, L., & <b>Schwab, S.</b>.
+      - authors: Gysin-Maillart, A., Soravia, L., & <b>Schwab, S.</b> 
+        year: 2020
+        title: "Attempted suicide short intervention program influences coping among patients with a history of attempted suicide"
+        journal: Journal of Affective Disorders
+        volume: 264
+        pages: 393–399
+        doi: 10.1016/j.jad.2019.11.059
+        
+      - authors: Held, L., & <b>Schwab, S.</b> 
         year: 2020
         title: "Improving the reproducibility of science"
         journal: Significance
         volume: 17(1)
         pages: 10–11
         doi: 10.1111/j.1740-9713.2020.01351.x
-    
-    y2019:
-      - authors: Gysin-Maillart, A., Soravia, L., & <b>Schwab, S.</b>.
-        year: 2019
-        title: "Attempted suicide short intervention program influences coping among patients with a history of attempted suicide"
-        journal: Journal of Affective Disorders
-        volume:
-        pages: 
-        doi: 10.1016/j.jad.2019.11.059
         
     y2018:
       - authors: Mueller, S. V., Morishima, Y., <b>Schwab, S.</b>, Wiest, R., Federspiel, A., & Hasler, G.
