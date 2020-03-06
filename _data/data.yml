@@ -203,14 +203,6 @@ publications:
         pages: 322131
         doi: 10.1101/322131
 
-      - authors: <b>Schwab, S.</b>, Federspiel, A., Morishima, Y., Nakataki, M., Strik, W., Wiest, R., ..., & Soravia, L. M.
-        year: 2017
-        title: "Glucocorticoids and cortical decoding in the phobic brain"
-        journal: bioRxiv
-        volume:
-        pages: 099697
-        doi: 10.1101/099697
-
     y2020:
       - authors: Gysin-Maillart, A., Soravia, L., & <b>Schwab, S.</b> 
         year: 2020
@@ -227,6 +219,14 @@ publications:
         volume: 17(1)
         pages: 10–11
         doi: 10.1111/j.1740-9713.2020.01351.x
+        
+      - authors: <b>Schwab, S.</b>, Federspiel, A., Morishima, Y., Nakataki, M., Strik, W., Wiest, R., ..., & Soravia, L. M.
+        year: 2017
+        title: "Glucocorticoids and cortical decoding in the phobic brain"
+        journal: Psychiatry Research: Neuroimaging
+        volume:
+        pages: 
+        doi: 10.1101/099697
         
       - authors: <b>Schwab, S.</b>, & Held, L. 
         year: in press

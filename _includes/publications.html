@@ -40,18 +40,6 @@
     </span>
   </div><!--//item-->
   {% endfor %}
-  
-  <h3 class="publication-title">2019</h3>
-  {% for publication in publications.y2019 %}
-  <div class="item">
-    <span>{{ publication.authors }} ({{ publication.year }}).
-      {{ publication.title }}.
-      <u>{{ publication.journal }}</u>
-      {% if publication.volume %}{{ publication.volume }}{% endif %}:{{ publication.pages }}.
-      <a href="https://doi.org/{{ publication.doi }}">doi:{{ publication.doi }}</a>
-    </span>
-  </div><!--//item-->
-  {% endfor %}
 
   <h3 class="publication-title">2018</h3>
   {% for publication in publications.y2018 %}
