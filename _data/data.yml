@@ -20,6 +20,8 @@ sidebar:
     gitlab:
     bitbucket:
     twitter: '@SimonSchw4b'
+    cv: 'http://www.crs.uzh.ch/en.html'
+    osf: evjks
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
@@ -37,16 +39,16 @@ sidebar:
 
       - item: medical statistics
         link:
-        
+
       - item: clinical trials
         link:
 
       - item: good research practice
         link:
-        
+
       - item: brain connectivity
         link:
-        
+
 career-profile:
     title: Career Profile
     summary: |
@@ -72,7 +74,7 @@ experiences:
     - role: Postdoctoral Researcher
       time: 08/2018&mdash;Present
       university: University of Zurich
-      department: Center for Reproducible Science & <br> Department of Biostatistics (Prof. Leonhard Held) 
+      department: Center for Reproducible Science & <br> Department of Biostatistics (Prof. Leonhard Held)
       #<br> Epidemiology, Biostatistics and Prevention Institute
 
     - role: Visiting Academic (SNSF Mobility)
@@ -88,8 +90,8 @@ experiences:
     - role: Postdoctoral Researcher
       time: 12/2013&mdash;12/2015
       university: University Hospital of Psychiatry, Bern
-      department: Psychiatric Neuroimaging Unit (Prof. Andrea Federspiel) 
-      
+      department: Psychiatric Neuroimaging Unit (Prof. Andrea Federspiel)
+
     - role: PhD Student
       time: 02/2009&mdash;12/2013
       university: University Hospital of Psychiatry, Bern
@@ -125,7 +127,7 @@ talks:
         link: https://www.grc.uzh.ch/
         tagline: Graduate Campus, UZH.
         time: HS19/FS20
-      
+
       - title: Open Science and Reproducibility in Neuroscience
         link: https://osf.io/nmqc7/
         tagline: Brainhack Zurich 2019.
@@ -135,7 +137,7 @@ talks:
         link: https://osf.io/3egpz/
         tagline: Part of "Research Ethics for Life Scientists", UZH.
         time: FS19
-    
+
       - title: Clinical Biostatistics (Practicals)
         link: https://www.ebpi.uzh.ch/de/teaching/uzhprograms/faculties/teachingbiostats/medstat.html
         tagline: Master program in Human Medicine, UZH
@@ -155,7 +157,7 @@ grants:
     - title: Poster Award Metascience 2019, Stanford University
       # award: USD 500
       time: 09/2019
-      
+
     - title: Stiftung für wissenschaftliche Forschung UZH
       #award: CHF 21,000
       time: 04/2019
@@ -185,7 +187,7 @@ publications:
     intro: |
       See also
       [Google Scholar](https://scholar.google.ch/citations?user=uR1_O0UAAAAJ) / [Pubmed](http://www.ncbi.nlm.nih.gov/pubmed/?term=Schwab+Simon%5BAuthor%5D).
-      
+
     Preprint:
       - authors: Lund, M. J., Alnæs, D., <b>Schwab, S.</b>, van der Meer, D., Andreassen, O. A., Westlye, L. T., & Kaufmann, T.
         year: 2019
@@ -194,7 +196,7 @@ publications:
         volume:
         pages: 799593
         doi: 10.1101/799593
-        
+
       - authors: <b>Schwab, S.</b>, Afyouni, S., Chen, Y., Han, Z., Guo, Q., Dierks, T., ..., & Grieder, M.
         year: 2018
         title: "Functional connectivity alterations of the temporal lobe and hippocampus in semantic dementia and Alzheimer’s disease"
@@ -204,38 +206,38 @@ publications:
         doi: 10.1101/322131
 
     y2020:
-      - authors: Gysin-Maillart, A., Soravia, L., & <b>Schwab, S.</b> 
+      - authors: Gysin-Maillart, A., Soravia, L., & <b>Schwab, S.</b>
         year: 2020
         title: "Attempted suicide short intervention program influences coping among patients with a history of attempted suicide"
         journal: Journal of Affective Disorders
         volume: 264
         pages: 393–399
         doi: 10.1016/j.jad.2019.11.059
-        
-      - authors: Held, L., & <b>Schwab, S.</b> 
+
+      - authors: Held, L., & <b>Schwab, S.</b>
         year: 2020
         title: "Improving the reproducibility of science"
         journal: Significance
         volume: 17(1)
         pages: 10–11
         doi: 10.1111/j.1740-9713.2020.01351.x
-        
+
       - authors: <b>Schwab, S.</b>, Federspiel, A., Morishima, Y., Nakataki, M., Strik, W., Wiest, R., ..., & Soravia, L. M.
         year: 2017
         title: "Glucocorticoids and cortical decoding in the phobic brain"
-        journal: Psychiatry Research: Neuroimaging
+        journal: Psychiatry Research Neuroimaging
         volume:
-        pages: 
+        pages:
         doi: 10.1101/099697
-        
-      - authors: <b>Schwab, S.</b>, & Held, L. 
+
+      - authors: <b>Schwab, S.</b>, & Held, L.
         year: in press
         title: "Different worlds: Confirmatory vs. exploratory research"
         journal: Significance
-        volume: 
-        pages: 
-        doi: 
-        
+        volume:
+        pages:
+        doi:
+
     y2018:
       - authors: Mueller, S. V., Morishima, Y., <b>Schwab, S.</b>, Wiest, R., Federspiel, A., & Hasler, G.
         year: 2018

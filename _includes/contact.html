@@ -67,5 +67,17 @@
     </li>
     {% endif %}
 
+    {% if sidebar.cv %}
+    <li class="cv"><i class="fas fa-file-download"></i>
+      <a href="{{ sidebar.cv }}" target="_blank">{{ 'download my CV' }}</a>
+    </li>
+    {% endif %}
+
+    {% if sidebar.osf %}
+    <li class="osf"><i class="fas fa-lock-open"></i>
+      <a href="https://osf.io/{{ sidebar.osf }}" target="_blank">{{ 'my OSF profile' }}</a>
+    </li>
+    {% endif %}
+
   </ul>
 </div><!--//contact-container-->
