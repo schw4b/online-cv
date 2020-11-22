@@ -34,35 +34,38 @@ sidebar:
         level: Professional
 
     interests:
-      - item: meta-science
-        link:
-
-      - item: medical statistics
-        link:
-
-      - item: clinical trials
-        link:
-
-      - item: good research practice
+      - item: reproducibility
         link:
 
       - item: brain connectivity
         link:
 
+      - item: psychiatry / clinical psychology
+        link:
+
+      - item: good research practice
+        link:
+
+      - item: medical statistics
+        link:
+
 career-profile:
     title: Career Profile
     summary: |
-      As a postdoctoral fellow at the
+      I am  a Postdoctoral Fellow at the
       [Center for Reproducible Science (CRS)](http://www.crs.uzh.ch) and the Department of Biostatistics
-      my main responsibilities are trainings in good research practice across faculties,
-      and teaching biostatistics at medical school. Furthermore,
-      I'm leading two meta-research projects, the first about publication
-      bias in clinical trials, and the second about verification of research results.
-      I have a broad set of expertise in Psychiatry research, for example, in the analyis of neuroimaging data,
-      the development of methods for brain connectivity, and the analysis of clinical trials.
+      [Department of Biostatistics](https://www.ebpi.uzh.ch/de/aboutus/departments/biostatistics.html).
+
+      My main activitiees are courses in good research practice across faculties,
+      teaching of statistics to students in biostatistics and medicine, and reasearch two meta-research projects:
+      the first about publication bias in medicine and the second about post-publication statistical review
+      of research results.
+
+      I have a broad set of expertise in psychiatry research, for example, in the analyis of neuroimaging data,
+      the development of methods for brain connectivity, and the analysis of randomized controlled trials.
 
 education:
-    - degree: PhD in Neuroscience
+    - degree: PhD in Health Science (Neuroscience)
       university: University of Bern
       time: 2013
 
@@ -80,7 +83,7 @@ experiences:
     - role: Visiting Academic (SNSF Mobility)
       time: 06/2017&mdash;06/2018
       university: University of Oxford
-      department: Neuroimaging Statistics (Prof. Thomas Nichols)
+      department: Big Data Institute (Prof. Thomas Nichols)
 
     - role: Visiting Academic (SNSF Mobility)
       time: 01/2016&mdash;05/2017
@@ -88,14 +91,9 @@ experiences:
       department: Department of Statistics (Prof. Thomas Nichols)
 
     - role: Postdoctoral Researcher
-      time: 12/2013&mdash;12/2015
+      time: 12/2013&mdash;01/2016
       university: University Hospital of Psychiatry, Bern
       department: Psychiatric Neuroimaging Unit (Prof. Andrea Federspiel)
-
-    - role: PhD Student
-      time: 02/2009&mdash;12/2013
-      university: University Hospital of Psychiatry, Bern
-      department: Department of Psychiatric Neurophysiology (PD Dr. Andreas Altorfer)
 
 projects:
     title: Research Projects
@@ -183,36 +181,76 @@ grants:
       time:
 
 publications:
-    title: Publications
+    title: Recent publications
     intro: |
       See also
       [Google Scholar](https://scholar.google.ch/citations?user=uR1_O0UAAAAJ) / [Pubmed](http://www.ncbi.nlm.nih.gov/pubmed/?term=Schwab+Simon%5BAuthor%5D).
 
     Preprint:
-      - authors: Lund, M. J., Alnæs, D., <b>Schwab, S.</b>, van der Meer, D., Andreassen, O. A., Westlye, L. T., & Kaufmann, T.
-        year: 2019
-        title: "Differences in directed functional brain connectivity related to age and sex"
-        journal: bioRxiv
+      - authors: Lund, M. J., Alnæs, D., Rokicki, J., <b>Schwab, S.</b>, Andreassen, O. A., Westlye, L. T., & Kaufmann, T.
+        year: 2020
+        title: "Age-differences in information flow in executive and sensorimotor brain networks during childhood and adolescence"
+        journal: medRxiv
         volume:
-        pages: 799593
-        doi: 10.1101/799593
+        pages: 2020.10.09.20207936
+        doi: 10.1101/2020.10.09.20207936
 
-      - authors: <b>Schwab, S.</b>, Afyouni, S., Chen, Y., Han, Z., Guo, Q., Dierks, T., ..., & Grieder, M.
-        year: 2018
-        title: "Functional connectivity alterations of the temporal lobe and hippocampus in semantic dementia and Alzheimer’s disease"
-        journal: bioRxiv
+      - authors: <b>Schwab, S.</b>, Giuachin, K., & Held, L.</b>
+        year: 2020
+        title: "Assessing treatment effects and publication bias across different specialties in medicine: a large empirical study of the Cochrane Database of Systematic Reviews"
+        journal: MetaArXiv
         volume:
-        pages: 322131
-        doi: 10.1101/322131
+        pages: t6cjx
+        doi: 10.31222/osf.io/t6cjx
 
     y2020:
-      - authors: Gysin-Maillart, A., Soravia, L., & <b>Schwab, S.</b>
+      - authors: Held, L., Pawel, S., & <b>Schwab, S.</b>
+        year: "in press"
+        title: "Replication power and regression to the mean"
+        journal: Significance
+        volume:
+        pages:
+        doi: 
+
+      - authors: <b>Schwab, S.</b>, Afyouni, S., Chen, Y., Han, Z., Guo, Q., Dierks, T., ..., & Grieder, M.
         year: 2020
-        title: "Attempted suicide short intervention program influences coping among patients with a history of attempted suicide"
-        journal: Journal of Affective Disorders
-        volume: 264
-        pages: 393–399
-        doi: 10.1016/j.jad.2019.11.059
+        title: "Functional connectivity alterations of the temporal lobe and hippocampus in semantic dementia and Alzheimer’s disease"
+        journal: Journal of Alzheimer’s Disease
+        volume: 76(4)
+        pages: 1461–1475
+        doi: 10.3233/JAD-191113
+
+      - authors: <b>Schwab, S.</b>, & Held, L.
+        year: 2020
+        title: "Science after Covid‐19: Faster, better, stronger? "
+        journal: Significance
+        volume: 17(4)
+        pages: 8–9
+        doi: 10.1111/1740-9713.01415
+
+      - authors: Lund, M. J., Alnæs, D., <b>Schwab, S.</b>, van der Meer, D., Andreassen, O. A., Westlye, L. T., & Kaufmann, T.
+        year: 2020
+        title: "Differences in directed functional brain connectivity related to age and sex"
+        journal: Human Brain Mapping
+        volume: 41
+        pages: 4173–4186
+        doi: 10.1002/hbm.25116
+
+      - authors: <b>Schwab, S.</b>, Federspiel, A., Morishima, Y., Nakataki, M., Strik, W., Wiest, R., ..., & Soravia, L. M.
+        year: 2017
+        title: "Glucocorticoids and cortical decoding in the phobic brain"
+        journal: "Psychiatry Research: Neuroimaging"
+        volume: 300
+        pages: 111066
+        doi: 10.1016/j.pscychresns.2020.111066
+
+      - authors: <b>Schwab, S.</b>, & Held, L.
+        year: 2020
+        title: "Different worlds: Confirmatory vs. exploratory research"
+        journal: Significance
+        volume: 17(2)
+        pages: 8–9
+        doi: 10.1111/1740-9713.01369
 
       - authors: Held, L., & <b>Schwab, S.</b>
         year: 2020
@@ -222,139 +260,12 @@ publications:
         pages: 10–11
         doi: 10.1111/j.1740-9713.2020.01351.x
 
-      - authors: <b>Schwab, S.</b>, Federspiel, A., Morishima, Y., Nakataki, M., Strik, W., Wiest, R., ..., & Soravia, L. M.
-        year: 2017
-        title: "Glucocorticoids and cortical decoding in the phobic brain"
-        journal: Psychiatry Research Neuroimaging
-        volume:
-        pages:
-        doi: 10.1101/099697
+      - authors: Gysin-Maillart, A., Soravia, L., & <b>Schwab, S.</b>
+        year: 2020
+        title: "Attempted suicide short intervention program influences coping among patients with a history of attempted suicide"
+        journal: Journal of Affective Disorders
+        volume: 264
+        pages: 393–399
+        doi: 10.1016/j.jad.2019.11.059
 
-      - authors: <b>Schwab, S.</b>, & Held, L.
-        year: in press
-        title: "Different worlds: Confirmatory vs. exploratory research"
-        journal: Significance
-        volume:
-        pages:
-        doi:
-
-    y2018:
-      - authors: Mueller, S. V., Morishima, Y., <b>Schwab, S.</b>, Wiest, R., Federspiel, A., & Hasler, G.
-        year: 2018
-        title: "Neural correlates of impaired reward-effort integration in remitted bulimia nervosa"
-        journal: Neuropsychopharmacology
-        volume: 43(4)
-        pages: 868–876
-        doi: 10.1038/npp.2017.277
-
-      - authors: <b>Schwab, S.</b>, Harbord, R., Zerbi, V., Elliott, L., Afyouni, S., Smith, J. Q., ..., & Nichols, T. E.
-        year: 2018
-        title: "Directed functional connectivity using dynamic graphical models"
-        journal: NeuroImage
-        volume: 175
-        pages: 340–353
-        doi: 10.1016/j.neuroimage.2018.03.074
-
-    y2017:
-      - authors: Nakataki, M., Soravia, L. M., <b>Schwab, S.</b>, Horn, H., Dierks, T., Strik, W., ..., & Morishima, Y.
-        year: 2017
-        title: "Glucocorticoid administration improves aberrant fear-processing networks in spider phobia"
-        journal: Neuropsychopharmacology
-        volume: 42(2)
-        pages: 485–494
-        doi: 10.1038/npp.2016.207
-
-    y2016:
-      - authors: Gysin-Maillart, A., <b>Schwab, S.</b>, Soravia, L., Megert, M., & Michel, K.
-        year: 2016
-        title: "A novel brief therapy for patients who attempt auicide: A 24-months follow-up randomized controlled study of the Attempted Suicide Short Intervention Program (ASSIP)"
-        journal: PLoS Medicine
-        volume: 13(3)
-        pages: e1001968
-        doi: 10.1371/journal.pmed.1001968
-
-      - authors: Soravia, L. M., Orosz, A., <b>Schwab, S.</b>, Nakataki, M., Wiest, R., & Federspiel, A.
-        year: 2016
-        title: "CBT reduces CBF: cognitive-behavioral therapy reduces cerebral blood flow in fear-relevant brain regions in spider phobia"
-        journal: Brain and Behavior
-        volume: 6(9)
-        pages: e00510
-        doi: 10.1002/brb3.510
-
-      - authors: Soravia, L. M., Witmer, J. S., <b>Schwab, S.</b>, Nakataki, M., Dierks, T., Wiest, R., ..., & Jann, K.
-        year: 2016
-        title: "Prestimulus default mode activity influences depth of processing and recognition in an emotional memory task"
-        journal: Human Brain Mapping
-        volume: 37(3)
-        pages: 924–932
-        doi: 10.1002/hbm.23076
-
-    y2015:
-      - authors: Jann, K., Gee, D. G., Kilroy, E., <b>Schwab, S.</b>, Smith, R. X., Cannon, T. D., & Wang, D. J. J.
-        year: 2015
-        title: "Functional connectivity in BOLD and CBF data: similarity and reliability of resting brain networks"
-        journal: NeuroImage
-        volume: 106
-        pages: 111–122
-        doi: 10.1016/j.neuroimage.2014.11.028
-
-      - authors: <b>Schwab, S.</b>, Jost, M., & Altorfer, A.
-        year: 2015
-        title: "Impaired top-down modulation of saccadic latencies in patients with schizophrenia but not in first-degree relatives"
-        journal: Frontiers in Behavioral Neuroscience
-        volume: 9
-        pages: 44
-        doi: 10.3389/fnbeh.2015.00044
-
-      - authors: <b>Schwab, S.</b>, Koenig, T., Morishima, Y., Dierks, T., Federspiel, A., & Jann, K.
-        year: 2015
-        title: "Discovering frequency sensitive thalamic nuclei from EEG microstate informed resting state fMRI"
-        journal: NeuroImage
-        volume: 118
-        pages: 368–375
-        doi: 10.1016/j.neuroimage.2015.06.001
-
-    y2014:
-      - authors: Duss, S. B., Reber, T. P., Hänggi, J., <b>Schwab, S.</b>, Wiest, R., Müri, R. M., ..., & Henke, K.
-        year: 2014
-        title: "Unconscious relational encoding depends on hippocampus"
-        journal: Brain
-        volume: 137
-        pages: 3355–3370
-        doi: 10.1093/brain/awu270
-
-    y2013:
-      - authors: Giezendanner, S., Walther, S., Razavi, N., Van Swam, C., Fisler, M. S., Soravia, L. M., Andreotti, J., <b>Schwab, S.</b>, ..., & Federspiel, A.
-        year: 2013
-        title: "Alterations of white matter integrity related to the season of birth in schizophrenia: a DTI study"
-        journal: PloS One
-        volume: 8(9)
-        pages: e75508
-        doi: 10.1371/journal.pone.0075508
-
-      - authors: Mikutta, C. A., <b>Schwab, S.</b>, Niederhauser, S., Wuermle, O., Strik, W., & Altorfer, A.
-        year: 2013
-        title: "Music, perceived arousal, and intensity: psychophysiological reactions to Chopin's 'Tristesse'"
-        journal: Psychophysiology
-        volume: 50(9)
-        pages: 909–919
-        doi: 10.1111/psyp.12071
-
-      - authors: <b>Schwab, S.</b>, Würmle, O., Razavi, N., Müri, R. M., & Altorfer, A.
-        year: 2013
-        title: "Eye-head coordination abnormalities in schizophrenia"
-        journal: PloS One
-        volume: 8(9)
-        pages: e74845
-        doi: 10.1371/journal.pone.0074845
-
-    y2012:
-      - authors: <b>Schwab, S.</b>, Würmle, O., & Altorfer, A.
-        year: 2012
-        title: "Analysis of eye and head coordination in a visual peripheral recognition task"
-        journal: Journal of Eye Movement Research
-        volume: 5(2)
-        pages: 1–9
-        doi: 10.16910/JEMR.5.2.3
-
-footer: last update in January 2020
+footer: last update in December 2020
