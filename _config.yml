@@ -4,8 +4,8 @@
 highlighter: rouge
 title: Simon Schwab
 url: 'http://schw4b.github.io'
-# baseurl: '/' # change it according to your repository name
-baseurl: '/online-cv' # for running locally
+baseurl: '/' # change it according to your repository name
+# baseurl: '/online-cv' # for running locally
 description: A beautiful Jekyll theme for creating resume
 # Style will be applied only after restarting the build or serve. Just choose one of the options.
 theme_skin: green # blue turquoise green berry orange ceramic
@@ -13,8 +13,6 @@ chrome_mobile_color: #use hex colors (ex:#1976d2) or leave empty if you don't wa
 
 # Tracker
 analytics: UA-72106507-1
-
-
 
 # Sass/SCSS
 sass:
