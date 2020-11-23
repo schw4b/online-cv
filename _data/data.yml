@@ -52,17 +52,17 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      I am  a Postdoctoral Fellow at the
-      [Center for Reproducible Science (CRS)](http://www.crs.uzh.ch) and the Department of Biostatistics
+      I am a Postdoctoral Fellow at the
+      [Center for Reproducible Science (CRS)](http://www.crs.uzh.ch) and the
       [Department of Biostatistics](https://www.ebpi.uzh.ch/de/aboutus/departments/biostatistics.html).
 
-      My main activitiees are courses in good research practice across faculties,
-      teaching of statistics to students in biostatistics and medicine, and reasearch two meta-research projects:
+      My main activities are courses in good research practice across faculties,
+      teaching of statistics to students in biostatistics and medicine, and two two meta-research projects:
       the first about publication bias in medicine and the second about post-publication statistical review
       of research results.
 
-      I have a broad set of expertise in psychiatry research, for example, in the analyis of neuroimaging data,
-      the development of methods for brain connectivity, and the analysis of randomized controlled trials.
+      I have a broad set of methodological expertise in psychiatry research, for example, in the analysis of neuroimaging data,
+      the development of methods for brain connectivity, and statistical support in the planning and analysis different types of studies, for example randomized controlled trials, diagnostic test, etc.
 
 education:
     - degree: PhD in Health Science (Neuroscience)
@@ -98,21 +98,17 @@ experiences:
 projects:
     title: Research Projects
     intro: |
-      Most of my research projects are available at OSF [here](https://osf.io/dkpvs/) including methods, code, and data. My ongoing projects are listed below.
+      Many of [my research projects](https://osf.io/dkpvs/) are publicly available at OSF
+      including methods, code, and data. My ongoing projects are listed below.
 
     assignments:
-      - title: FORRESD
+      - title: Investigating the appropriate use of ANCOVA in medicine, neuroscience and psychology (SWF funding)
         link: "https://osf.io/4mfdh/"
-        tagline: "Foster Open and Reproducible Reanalyses of Scientific Data"
+        tagline: "This project is part of FORRESD: A computational infrastructure to foster open and reproducible reanalysis of scientific data"
 
-      - title: Publication Bias
+      - title: Assessing treatment effects and publication bias across different specialties in medicine
         link: "https://osf.io/uv397/"
-        tagline: "Estimating publication bias in a large dataset in medicine"
-
-      - title: BMI
-        link: "https://osf.io/5nbtc/"
-        tagline: "Identication of risk factors and mapping of excess weight
-                 in young Swiss males"
+        tagline: "A large empirical study of the Cochrane Database of Systematic Reviews"
 
 talks:
     title: Teaching, Talks & Workshops
@@ -203,6 +199,14 @@ publications:
         pages: t6cjx
         doi: 10.31222/osf.io/t6cjx
 
+      - authors: Soravia, L. M.,<b>Schwab, S.</b>, Walther, S., & Müller, T.</b>
+        year: 2020
+        title: "Rescuers at risk: Posttraumatic stress symptoms differ among police officers, fire fighters, ambulance personnel, and emergency and psychiatric nurses"
+        journal: OSF Preprints
+        volume:
+        pages: 8c9xa
+        doi: 10.31219/osf.io/8c9xa
+
     y2020:
       - authors: Held, L., Pawel, S., & <b>Schwab, S.</b>
         year: "in press"
@@ -210,7 +214,7 @@ publications:
         journal: Significance
         volume:
         pages:
-        doi: 
+        doi:
 
       - authors: <b>Schwab, S.</b>, Afyouni, S., Chen, Y., Han, Z., Guo, Q., Dierks, T., ..., & Grieder, M.
         year: 2020
