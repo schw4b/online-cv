@@ -54,7 +54,7 @@ career-profile:
     summary: |
       I am a Postdoctoral Fellow at the University of Zurich's
       [Center for Reproducible Science (CRS)](http://www.crs.uzh.ch) and the
-      [Department of Biostatistics](https://www.ebpi.uzh.ch/de/aboutus/departments/biostatistics.html)
+      [Department of Biostatistics](https://www.ebpi.uzh.ch/de/aboutus/departments/biostatistics.html).
 
       My main activities are courses in good research practice across faculties,
       teaching of statistics to students in biostatistics and medicine, and two meta-research projects:
@@ -62,7 +62,8 @@ career-profile:
       of research results.
 
       I have a broad set of methodological expertise in psychiatry research, for example, in the analysis of neuroimaging data,
-      the development of methods for brain connectivity, and statistical support in the planning and analysis different types of studies, for example randomized controlled trials, diagnostic test, etc.
+      the development of methods for brain connectivity, and the development of scientific software. I provide general statistical support
+      in the planning and analysis different types of studies in medicine and psychology.
 
 education:
     - degree: PhD in Health Science (Neuroscience)
@@ -199,7 +200,7 @@ publications:
         pages: t6cjx
         doi: 10.31222/osf.io/t6cjx
 
-      - authors: Soravia, L. M.,<b>Schwab, S.</b>, Walther, S., & Müller, T.</b>
+      - authors: Soravia, L. M., <b>Schwab, S.</b>, Walther, S., & Müller, T.</b>
         year: 2020
         title: "Rescuers at risk: Posttraumatic stress symptoms differ among police officers, fire fighters, ambulance personnel, and emergency and psychiatric nurses"
         journal: OSF Preprints
