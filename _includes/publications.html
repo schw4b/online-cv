@@ -24,7 +24,8 @@
       <u>{{ publication.journal }}</u>
       {% if publication.volume %}{{ publication.volume }}
       {% endif %}:{{ publication.pages }}.
-      <a href="https://doi.org/{{ publication.doi }}">doi:{{ publication.doi }}</a>
+      {% if publication.doi %}<a href="https://doi.org/{{ publication.doi }}">doi:{{ publication.doi }}</a>{% endif %}
+      {% if publication.arxiv %}<a href="http://arxiv.org/abs/{{ publication.arxiv }}">arXiv:{{ publication.arxiv }}</a>{% endif %}
     </span>
   </div><!--//item-->
   {% endfor %}

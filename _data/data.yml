@@ -184,6 +184,14 @@ publications:
       [Google Scholar](https://scholar.google.ch/citations?user=uR1_O0UAAAAJ) / [Pubmed](http://www.ncbi.nlm.nih.gov/pubmed/?term=Schwab+Simon%5BAuthor%5D).
 
     Preprint:
+      - authors: van Zwet, E., <b>Schwab, S.</b>, & Senn, S.
+        year: 2020
+        title: "The statistical properties of RCTs and a proposal for shrinkage"
+        journal: arXiv
+        volume:
+        pages: 2011.15004
+        arxiv: 2011.15004
+
       - authors: Lund, M. J., Alnæs, D., Rokicki, J., <b>Schwab, S.</b>, Andreassen, O. A., Westlye, L. T., & Kaufmann, T.
         year: 2020
         title: "Age-differences in information flow in executive and sensorimotor brain networks during childhood and adolescence"
@@ -213,10 +221,10 @@ publications:
         year: "in press"
         title: "Replication power and regression to the mean"
         journal: Significance
-        volume:
-        pages:
-        doi:
-
+        volume: 17(6)
+        pages: 10–11
+        doi: 10.1111/1740-9713.01462
+        
       - authors: <b>Schwab, S.</b>, Afyouni, S., Chen, Y., Han, Z., Guo, Q., Dierks, T., ..., & Grieder, M.
         year: 2020
         title: "Functional connectivity alterations of the temporal lobe and hippocampus in semantic dementia and Alzheimer’s disease"
