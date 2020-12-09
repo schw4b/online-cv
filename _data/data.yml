@@ -208,23 +208,23 @@ publications:
         pages: t6cjx
         doi: 10.31222/osf.io/t6cjx
 
+    y2020:
       - authors: Soravia, L. M., <b>Schwab, S.</b>, Walther, S., & Müller, T.</b>
-        year: 2020
+        year: "in press"
         title: "Rescuers at risk: Posttraumatic stress symptoms differ among police officers, fire fighters, ambulance personnel, and emergency and psychiatric nurses"
-        journal: OSF Preprints
+        journal: Frontiers Psychiatry
         volume:
         pages: 8c9xa
         doi: 10.31219/osf.io/8c9xa
 
-    y2020:
       - authors: Held, L., Pawel, S., & <b>Schwab, S.</b>
-        year: "in press"
+        year: 2020
         title: "Replication power and regression to the mean"
         journal: Significance
         volume: 17(6)
         pages: 10–11
         doi: 10.1111/1740-9713.01462
-        
+
       - authors: <b>Schwab, S.</b>, Afyouni, S., Chen, Y., Han, Z., Guo, Q., Dierks, T., ..., & Grieder, M.
         year: 2020
         title: "Functional connectivity alterations of the temporal lobe and hippocampus in semantic dementia and Alzheimer’s disease"
